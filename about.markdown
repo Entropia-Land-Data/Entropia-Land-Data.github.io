@@ -9,4 +9,5 @@ Entropia Land Data is a data project for the game Entropia Universe and develope
 This is the dev blog for releases and other development updates. 
 
 Connect with us:
-- [Discord Server](https://discord.gg/2DBpQ36euB)
+- [Discord Server](https://discord.gg/mRfvgCnrGr)
+- [Github](https://github.com/Entropia-Land-Data/)
