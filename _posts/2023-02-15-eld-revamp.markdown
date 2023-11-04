@@ -25,5 +25,5 @@ This is the official dev blog for the project and the content on this blog will 
 I hope you stick around and enjoy the show as I attempt to revamp and revive this data project!
 
 # Socials:
-- **Discord:** [https://discord.com/invite/2DBpQ36euB](https://discord.com/invite/2DBpQ36euB)
+- **Discord:** [https://discord.gg/mRfvgCnrGr](https://discord.gg/mRfvgCnrGr)
 - **Github:** [https://github.com/Entropia-Land-Data](https://github.com/Entropia-Land-Data)
