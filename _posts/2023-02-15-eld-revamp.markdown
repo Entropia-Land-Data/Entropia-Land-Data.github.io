@@ -2,7 +2,8 @@
 layout: post
 title:  "2023 ELD Revamp"
 date:   2023-02-15 01:00:00
-categories: announcement
+categories: Announcement
+author: Angus Leung
 ---
 It’s been a while and 2023 is a start to a new year. To kick off the new year, I’ve decided to revamp the Entropia Land Data project and finally get it done. 
 
